@@ -1,0 +1,14 @@
+
+{
+ "username": "admin",
+ "password": "manager",
+ "url": "http://localhost:8888/",
+ "subject":"test vtiger",
+ "lastName" : "Kumar",
+ "email":"admin234@gmail.com",
+ "assistant":"Alexa",
+ "leadSource":"Cold Call",
+ "birthdate": "1998-09-25"
+
+ 
+}

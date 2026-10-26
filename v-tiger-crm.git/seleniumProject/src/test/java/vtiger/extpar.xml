@@ -1,0 +1,15 @@
+
+
+<suite name="Parallel Suite" parallel="classes" thread-count="3">
+
+    <test name="Selenium Tests">
+
+        <classes>
+            <class name="vtiger.emailTest2"/>
+            <class name="vtiger.SauceDemo"/>
+            <class name="vtiger.contactTest1"/>
+        </classes>
+
+    </test>
+
+</suite>
